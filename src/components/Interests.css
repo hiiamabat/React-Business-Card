@@ -1,0 +1,22 @@
+.interests {
+  max-width: 350px;
+  background-color: #1a1b21;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.interests h2 {
+  font-size: 1.3rem;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.interests p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #fff;
+  margin: 0 0 1rem 0;
+  padding: 0;
+  text-align: left;
+}

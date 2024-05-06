@@ -1,0 +1,64 @@
+header {
+  background-color: #1a1b21;
+  max-width: 350px;
+  border-radius: 10px 10px 0 0;
+}
+
+header h1 {
+  font-size: 1.5rem;
+  margin: 1rem 0 0 0;
+  padding: 0;
+}
+
+header h2 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #f3bf99;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+header p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #fff;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.email-btn,
+.linkedin-btn {
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 5px;
+  margin: 1rem 0 0 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.email-btn img,
+.linkedin-btn img {
+  padding: 0.2rem;
+}
+
+.email-btn {
+  background-color: #fff;
+  color: #161619;
+  margin-left: 1.3rem;
+}
+
+.linkedin-btn {
+  background-color: #0077b5;
+  color: #fff;
+  margin-right: 1.3rem;
+}

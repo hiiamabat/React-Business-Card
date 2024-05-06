@@ -1,0 +1,22 @@
+.about {
+  max-width: 350px;
+  background-color: #1a1b21;
+  padding: 2rem 2rem 0 2rem;
+  box-sizing: border-box;
+}
+
+.about h2 {
+  font-size: 1.3rem;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.about p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
